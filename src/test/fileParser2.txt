@@ -1,0 +1,4 @@
+float nFloat;
+int nInt;
+a = 5 + 3;
+b = a + 5;
