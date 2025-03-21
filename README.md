@@ -2,8 +2,6 @@ Essock Aurelien(readMe FLT2)
 
 # Compilatore da AC a DC  
 **Corso**: Fondamenti, Linguaggi e Traduttori  
-**Docente**: Paola Giannini  
-**Anno Accademico**: 2021/2022  
 **Autore**: [Essock Aurelien]  
 
 ---
